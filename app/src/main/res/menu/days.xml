@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item  android:id="@+id/refreshSunRaise"
+        android:title="Item 1"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_compass"/>
+    <item android:title="Sunday" android:id="@+id/sunday"/>
+    <item
+        android:id="@+id/monday"
+        android:title="Monday" />
+    <item
+        android:id="@+id/tuesday"
+        android:title="Tuesday" />
+    <item
+        android:id="@+id/wednesday"
+        android:title="Wednesday" />
+    <item
+        android:id="@+id/thursday"
+        android:title="Thursday" />
+    <item
+        android:id="@+id/friday"
+        android:title="Friday" />
+    <item
+        android:id="@+id/saturday"
+        android:title="Saturday" />
+    <item
+        android:id="@+id/raahu"
+        android:title="Raahu" />
+</menu>

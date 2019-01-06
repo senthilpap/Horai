@@ -1,0 +1,25 @@
+No ,Time,Horai,Result,Actions
+1,06.00to07.00am,Mercury,Good,Mercurry+super
+2,07.00to08.00am,Moon,Bad,No
+3,08.00to09.00am,Saturn,Good,Mercurry+Saturn
+4,09.00to10.00am,Jupitor,Bad,No
+5,10.00to11.00am,Mars,Bad,No
+6,11.00to12.00pm,Sun,Good,Sun+Mercurry
+7,12.00to01.00pm,Venus,Good,Mercurry+Venus
+8,01.00to02.00pm,Mercury,Good,Mercurry+super
+9,02.00to03.00pm,Moon,Bad,No
+10,03.00to04.00pm,Saturn,Good,Mercurry+Saturn
+11,04.00to05.00pm,Jupitor,Bad,No
+12,05.00to06.00pm,Mars,Bad,No
+13,06.00to07.00pm,Sun,Good,Sun+Mercurry
+14,07.00to08.00pm,Venus,Good,Mercurry+Venus
+15,08.00to09.00pm,Mercury,Good,Mercurry+super
+16,09.00to10.00pm,Moon,Bad,No
+17,10.00to11.00pm,Saturn,Good,Mercurry+Saturn
+18,11.00to12.00am,Jupitor,Bad,No
+19,12.00to01.00am,Mars,Bad,No
+20,01.00to02.00am,Sun,Good,Sun+Mercurry
+21,02.00to03.00am,Venus,Good,Mercurry+Venus
+22,03.00to04.00am,Mercury,Good,Mercurry+super
+23,04.00to05.00am,Moon,Bad,No
+24,05.00to06.00am,Saturn,Good,Mercurry+Saturn

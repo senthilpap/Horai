@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Horai</string>
+    <string name="appwidget_text">HORAI</string>
+    <string name="add_widget">Add widget</string>
+</resources>

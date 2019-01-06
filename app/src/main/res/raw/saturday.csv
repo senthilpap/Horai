@@ -1,0 +1,25 @@
+No ,Time,Horai,Result,Actions
+1,06.00to07.00am,Saturn,Good,Work
+2,07.00to08.00am,Jupitor,Equall,Jupitor
+3,08.00to09.00am,Mars,Bad,No
+4,09.00to10.00am,Sun,Bad,No
+5,10.00to11.00am,Venus,Good,Saturn+Venus
+6,11.00to12.00pm,Mercury,Good,Saturn+Mercury
+7,12.00to01.00pm,Moon,Bad,No
+8,01.00to02.00pm,Saturn,Good,Work
+9,02.00to03.00pm,Jupitor,Equall,Jupitor
+10,03.00to04.00pm,Mars,Bad,No
+11,04.00to05.00pm,Sun,Bad,No
+12,05.00to06.00pm,Venus,Good,Saturn+Venus
+13,06.00to07.00pm,Mercury,Good,Saturn+Mercury
+14,07.00to08.00pm,Moon,Bad,No
+15,08.00to09.00pm,Saturn,Good,Work
+16,09.00to10.00pm,Jupitor,Equall,Jupitor
+17,10.00to11.00pm,Mars,Bad,No
+18,11.00to12.00am,Sun,Bad,No
+19,12.00to01.00am,Venus,Good,Saturn+Venus
+20,01.00to02.00am,Mercury,Good,Saturn+Mercury
+21,02.00to03.00am,Moon,Bad,No
+22,03.00to04.00am,Saturn,Good,Work
+23,04.00to05.00am,Jupitor,Equall,Jupitor
+24,05.00to06.00am,Mars,Bad,No
